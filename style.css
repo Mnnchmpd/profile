@@ -1,0 +1,114 @@
+body {
+  background-color: #f9f8eb;
+  color: #560d0d;
+  font-family: 'Sacramento', cursive;
+  font-size: 20px;
+  font-weight: lighter;
+  line-height: normal;
+  background-image: url(../images/0.jpg);
+  background-size: cover;
+}
+
+h1 {
+  color: #560d0d;
+  font-size: 40px;
+  font-weight: 900;
+  font-family: 'Homemade Apple', cursive;
+  margin: 0px;
+}
+h2 {
+  color: #dbcc8f;
+  font-size: 35px;
+  font-weight: lighter;
+  font-weight: 500;
+  font-family: 'Advent Pro', sans-serif;
+  text-decoration: underline;
+}
+
+h3 {
+  color: #560d0d;
+  font-size: 15px;
+  font-weight: lighter;
+  font-weight: 500;
+  font-family: 'Homemade Apple', cursive;
+  text-decoration: underline;
+}
+
+#link:hover {
+  background-color: black;
+}
+
+p {
+  font-family: 'Advent Pro', sans-serif;
+  color: grey;
+}
+
+a{
+  color: rgba(100, 100, 100, 0.9);
+}
+
+#link {
+  font-family: 'Cookie', cursive;
+  text-decoration: none;
+  font-weight: 200;
+  font-size: 20px;
+  background-color: #4e4e4e;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 4px;
+}
+
+a:hover {
+  background-color: rgba(150, 150, 150, 0.5)
+}
+
+.container {
+  width: 900px;
+  margin: 0 auto;
+  opacity: 0.75;
+}
+
+.card-white {
+  background-color: white;
+  padding: 30px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  margin: 0 auto;
+  text-align: center;
+  border-radius: 50%;
+  width: 700px;
+}
+
+.card-white-2{
+  background-color: white;
+  padding: 29px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  margin: 0 auto;
+  text-align: center;
+  border-radius: 10%;
+  width: 550px;
+}
+
+.list-inline {
+  opacity: 0.7;
+  color: black;
+  list-style: none;
+  padding-left: 0px;
+  list-style-type: none;
+  font-size: 30px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.img-circle {
+  border-radius: 20%;
+  text-align: center;
+}
+
+.video {
+  text-align: center;
+}
+
+
